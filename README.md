@@ -1,6 +1,7 @@
 # flutter_app
 
 A solution (not completely correct because of limited time) for task B of Yandex mobile developers contest 2019
+https://contest.yandex.ru/contest/14211/problems/B/
 
 ## Getting Started
 
