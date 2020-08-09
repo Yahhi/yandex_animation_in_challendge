@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A solution (not completely correct because of limited time) for task B of Yandex mobile developers contest 2019
 
 ## Getting Started
 
